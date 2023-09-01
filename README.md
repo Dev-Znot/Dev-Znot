@@ -1,16 +1,17 @@
-### Hi there 👋
+### Opa tudo bem? Ao que devo o prazer da visita. 💡
 
-<!--
-**Dev-ThallesZai/Dev-ThallesZai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-zainote-r-4297aa233/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zainot_t/)
 
-Here are some ideas to get you started:
+![Thalles GitHub stats](https://github-readme-stats.vercel.app/api?username=DevThalles&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso:
+
+<div style='display = inline_block'><br/>
+    <img align= 'center' alt= Python src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
+</div><br/>
+Se não me achar, provavelmente estou procurando erros no código.
+
+### Contato:
+
+- Email: Zainote.pro@gmail.com
