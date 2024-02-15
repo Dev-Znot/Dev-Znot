@@ -1,16 +1,11 @@
-### Hi there  🖐️
+## Thalles Zainote
+Backend Developer & Web Developer
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-zainote-r-4297aa233/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zainot_t/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Znot GitHub stats](https://github-readme-stats.vercel.app/api?username=DevThalles&show_icons=true&theme=tokyonight)
+Muito prazer me chamo Thalles. Estudo a linguagem python cerca de 1 ano e faço projetos freelancer de automação e APIs sempre que posso.
 
-## Technologies I use:
-
-<div style='display = inline_block'><br/>
-    <img align= 'center' alt= Python src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
-</div><br/>
-
-### Contact:
-
-- Email: Zainote.pro@gmail.com
+Não me vejo mais sem um codigo para desenvolver ou até mesmo resolver, é claro que é um pouco estressante as vezes, mas nada que um café e um pouco de paciência não deêm conta.
