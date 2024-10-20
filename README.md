@@ -6,6 +6,6 @@ Backend Developer & Web Developer
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-Muito prazer me chamo Thalles. Estudo a linguagem python cerca de 1 ano e faço projetos freelancer de automação e APIs sempre que posso.
+Muito prazer me chamo Thalles. Sou engenheiro de software dês de 2020 comecei minha jornada estudando Python, mas hoje ando surfando nas ondas que me forem concebidas, não tenho nem um apego a linguagem estudo e aprecio todas.
 
-Não me vejo mais sem um codigo para desenvolver ou até mesmo resolver, é claro que é um pouco estressante as vezes, mas nada que um café e um pouco de paciência não deêm conta.
+Sou apaixonado pelo que faço logo faço tudo com excelência. É claro que é um pouco estressante às vezes, mas nada que um café e um pouco de paciência não deem conta.
