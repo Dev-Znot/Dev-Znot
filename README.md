@@ -2,6 +2,11 @@
 Backend Developer & Web Developer
 
 
+Muito prazer me chamo Thalles. Sou engenheiro de software dês de 2020 comecei minha jornada estudando Python, mas hoje ando surfando nas ondas que me forem concebidas, não tenho nem um apego a linguagem estudo e aprecio todas.
+
+Sou apaixonado pelo que faço logo faço tudo com excelência. É claro que é um pouco estressante às vezes, mas nada que um café e um pouco de paciência não deem conta.
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,6 +26,3 @@ Backend Developer & Web Developer
 ### Ferramentas
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-Muito prazer me chamo Thalles. Sou engenheiro de software dês de 2020 comecei minha jornada estudando Python, mas hoje ando surfando nas ondas que me forem concebidas, não tenho nem um apego a linguagem estudo e aprecio todas.
-
-Sou apaixonado pelo que faço logo faço tudo com excelência. É claro que é um pouco estressante às vezes, mas nada que um café e um pouco de paciência não deem conta.
